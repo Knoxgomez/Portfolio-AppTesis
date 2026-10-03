@@ -9,9 +9,11 @@ Una aplicación móvil 2D desarrollada en Unity con integración a Firebase, dis
 ## 🎬 Demostración de Gameplay
 
 <img width="648" height="1440" alt="Penales" src="https://github.com/user-attachments/assets/72f4b787-0cb9-4efa-b941-d2c3f7cce159" />
+
 > **Minijuego de Penales:** Lógica de físicas 2D y respuesta táctil para dispositivos móviles.
 
 <img width="648" height="1440" alt="Ludo" src="https://github.com/user-attachments/assets/b25310e7-ac6a-4f8b-b220-6c91f6bfd999" />
+
 > **Minijuego Ludo & Base de Datos:** Implementación de turnos y sincronización de puntajes/estado del juego en tiempo real.
 
 ---
